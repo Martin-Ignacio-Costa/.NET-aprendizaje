@@ -1,0 +1,14 @@
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\cs14net10\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.exe
+C:\cs14net10\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.deps.json
+C:\cs14net10\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.runtimeconfig.json
+C:\cs14net10\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.dll
+C:\cs14net10\Chapter01\AboutMyEnvironment\bin\Debug\net10.0\AboutMyEnvironment.pdb
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.dll
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\refint\AboutMyEnvironment.dll
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.pdb
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\cs14net10\Chapter01\AboutMyEnvironment\obj\Debug\net10.0\ref\AboutMyEnvironment.dll
