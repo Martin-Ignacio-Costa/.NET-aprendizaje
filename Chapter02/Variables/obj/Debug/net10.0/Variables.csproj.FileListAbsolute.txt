@@ -1,0 +1,15 @@
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.sourcelink.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Variables\obj\Debug\net10.0\ref\Variables.dll

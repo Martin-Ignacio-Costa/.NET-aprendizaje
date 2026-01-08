@@ -1,0 +1,15 @@
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.AssemblyInfo.cs
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.sourcelink.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\bin\Debug\net10.0\Numbers.exe
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\bin\Debug\net10.0\Numbers.deps.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\bin\Debug\net10.0\Numbers.runtimeconfig.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\bin\Debug\net10.0\Numbers.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\bin\Debug\net10.0\Numbers.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\refint\Numbers.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\Numbers.genruntimeconfig.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Numbers\obj\Debug\net10.0\ref\Numbers.dll

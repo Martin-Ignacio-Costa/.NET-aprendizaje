@@ -1,12 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cs14net10\\Chapter01\\",
+  "WorkspaceRootPath": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CE098B8-8037-4A59-B2AB-EC3BCC56BBEF}|..\\Chapter02\\Vocabulary\\Vocabulary.csproj|c:\\cs14net10\\chapter02\\vocabulary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47F66CE1-C7CD-433E-9180-AF9AB957F807}|..\\Chapter02\\Variables\\Variables.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\chapter02\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE098B8-8037-4A59-B2AB-EC3BCC56BBEF}|..\\Chapter02\\Vocabulary\\Vocabulary.csproj|c:\\cs14net10\\chapter02\\vocabulary\\obj\\debug\\net10.0\\vocabulary.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36B375BF-3E21-4A2F-BF94-EC2D77E5C435}|..\\Chapter02\\Numbers\\Numbers.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\chapter02\\numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B375BF-3E21-4A2F-BF94-EC2D77E5C435}|..\\Chapter02\\Numbers\\Numbers.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\chapter02\\numbers\\numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,32 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vocabulary.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\cs14net10\\Chapter02\\Vocabulary\\obj\\Debug\\net10.0\\Vocabulary.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "..\\Chapter02\\Vocabulary\\obj\\Debug\\net10.0\\Vocabulary.GlobalUsings.g.cs",
-              "ToolTip": "C:\\cs14net10\\Chapter02\\Vocabulary\\obj\\Debug\\net10.0\\Vocabulary.GlobalUsings.g.cs",
-              "RelativeToolTip": "..\\Chapter02\\Vocabulary\\obj\\Debug\\net10.0\\Vocabulary.GlobalUsings.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T11:35:38.526Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\cs14net10\\Chapter02\\Vocabulary\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Chapter02\\Vocabulary\\Program.cs",
-              "ToolTip": "C:\\cs14net10\\Chapter02\\Vocabulary\\Program.cs",
-              "RelativeToolTip": "..\\Chapter02\\Vocabulary\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Chapter02\\Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Variables\\Program.cs",
+              "RelativeToolTip": "..\\Chapter02\\Variables\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T23:51:23.693Z",
+              "WhenOpened": "2026-01-08T13:40:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numbers",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Numbers\\Numbers.csproj",
+              "RelativeDocumentMoniker": "..\\Chapter02\\Numbers\\Numbers.csproj",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Numbers\\Numbers.csproj",
+              "RelativeToolTip": "..\\Chapter02\\Numbers\\Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T13:37:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Chapter02\\Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Numbers\\Program.cs",
+              "RelativeToolTip": "..\\Chapter02\\Numbers\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:03:27.017Z",
               "EditorCaption": ""
             }
           ]
