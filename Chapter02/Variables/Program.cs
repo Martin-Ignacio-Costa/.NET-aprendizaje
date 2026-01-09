@@ -38,9 +38,30 @@ string fruit = "Apples";
 char letter = 'Z';
 bool happy = true;
 
-var population = 67_000_000;
-var weight = 1.88;
-var price = 4.99M;
-var fruit = "Apples";
-var letter = 'Z';
-var happy = true;
+//var population = 67_000_000;
+//var weight = 1.88;
+//var price = 4.99M;
+//var fruit = "Apples";
+//var letter = 'Z';
+//var happy = true;
+
+var xml1 = new XmlDocument();
+XmlDocument xml2 = new XmlDocument();
+
+var file1 = File.CreateText("something1.txt");
+StreamWriter file2 = File.CreateText("something2.txt");
+
+Console.WriteLine($"default(int) = {default(int)}");
+Console.WriteLine($"default(bool) = {default(bool)}");
+Console.WriteLine($"default(DateTime) = {default(DateTime)}");
+Console.WriteLine($"default(string) = {default(string) ?? "<NULL>"}");
+
+int number = 13;
+Console.WriteLine($"number set to: {number}");
+number = default;
+Console.WriteLine($"number reset to its default: {number}");
+
+Console.Write("A");
+Console.Write("B");
+Console.Write("C");
+

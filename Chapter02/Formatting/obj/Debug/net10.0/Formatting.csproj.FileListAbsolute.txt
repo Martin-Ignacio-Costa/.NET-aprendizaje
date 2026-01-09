@@ -1,0 +1,15 @@
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\bin\Debug\net10.0\Formatting.exe
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\bin\Debug\net10.0\Formatting.deps.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\bin\Debug\net10.0\Formatting.runtimeconfig.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\bin\Debug\net10.0\Formatting.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\bin\Debug\net10.0\Formatting.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.AssemblyInfo.cs
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.sourcelink.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\refint\Formatting.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\Formatting.genruntimeconfig.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Chapter02\Formatting\obj\Debug\net10.0\ref\Formatting.dll

@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../Chapter02/Formatting/Formatting.csproj" Id="4875a176-e61e-412d-93db-01f7b5bca151" />
   <Project Path="../Chapter02/Numbers/Numbers.csproj" Id="36b375bf-3e21-4a2f-bf94-ec2d77e5c435" />
   <Project Path="../Chapter02/Variables/Variables.csproj" Id="47f66ce1-c7cd-433e-9180-af9ab957f807" />
   <Project Path="../Chapter02/Vocabulary/Vocabulary.csproj" Id="7ce098b8-8037-4a59-b2ab-ec3bcc56bbef" />
