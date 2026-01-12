@@ -21,7 +21,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Formatting",
+              "Title": "Formatting.csproj",
               "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Formatting.csproj",
               "RelativeDocumentMoniker": "..\\Chapter02\\Formatting\\Formatting.csproj",
               "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Formatting.csproj",
@@ -41,8 +41,7 @@
               "RelativeToolTip": "..\\Chapter02\\Formatting\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T18:48:03.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T18:48:03.456Z"
             },
             {
               "$type": "Bookmark",

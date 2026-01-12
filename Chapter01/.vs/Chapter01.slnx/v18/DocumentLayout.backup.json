@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4875A176-E61E-412D-93DB-01F7B5BCA151}|..\\Chapter02\\Formatting\\Formatting.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\chapter02\\formatting\\formatting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4875A176-E61E-412D-93DB-01F7B5BCA151}|..\\Chapter02\\Formatting\\Formatting.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\chapter02\\formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +21,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Formatting",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Formatting.csproj",
+              "RelativeDocumentMoniker": "..\\Chapter02\\Formatting\\Formatting.csproj",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Formatting.csproj",
+              "RelativeToolTip": "..\\Chapter02\\Formatting\\Formatting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T18:49:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Program.cs",
               "RelativeDocumentMoniker": "..\\Chapter02\\Formatting\\Program.cs",
               "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\Chapter02\\Formatting\\Program.cs",
               "RelativeToolTip": "..\\Chapter02\\Formatting\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T18:48:03.456Z",
               "EditorCaption": ""
