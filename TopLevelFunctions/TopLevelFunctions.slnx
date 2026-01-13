@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="../CalculatorLib/CalculatorLib.csproj" Id="a529a245-c4d4-417c-983d-77f8ba35ef78" />
+  <Project Path="../Debugging/Debugging.csproj" Id="43678aa6-c900-4e82-81b7-5175e984915b" />
+  <Project Path="../HotReload/HotReload.csproj" Id="fe53e1a1-0104-44a1-9d3f-9e9a321faf9f" />
   <Project Path="../WritingFunctions/WritingFunctions.csproj" />
   <Project Path="TopLevelFunctions.csproj" />
 </Solution>

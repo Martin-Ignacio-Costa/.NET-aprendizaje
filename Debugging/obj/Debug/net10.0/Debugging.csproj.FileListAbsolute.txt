@@ -1,0 +1,15 @@
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\bin\Debug\net10.0\Debugging.exe
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\bin\Debug\net10.0\Debugging.deps.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\bin\Debug\net10.0\Debugging.runtimeconfig.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\bin\Debug\net10.0\Debugging.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\bin\Debug\net10.0\Debugging.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfo.cs
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.sourcelink.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\refint\Debugging.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\Debugging.genruntimeconfig.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\Debugging\obj\Debug\net10.0\ref\Debugging.dll

@@ -1,0 +1,15 @@
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\bin\Debug\net10.0\HotReload.exe
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\bin\Debug\net10.0\HotReload.deps.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\bin\Debug\net10.0\HotReload.runtimeconfig.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\bin\Debug\net10.0\HotReload.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\bin\Debug\net10.0\HotReload.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.AssemblyInfoInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.AssemblyInfo.cs
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.csproj.CoreCompileInputs.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.sourcelink.json
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\refint\HotReload.dll
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.pdb
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\HotReload.genruntimeconfig.cache
+C:\Users\Martin.Costa\Documents\GitHub\.NET-aprendizaje\HotReload\obj\Debug\net10.0\ref\HotReload.dll

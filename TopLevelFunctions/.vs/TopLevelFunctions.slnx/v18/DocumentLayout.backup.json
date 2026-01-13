@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\TopLevelFunctions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74474250-D441-48AE-AF95-37B4BF996339}|..\\WritingFunctions\\WritingFunctions.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\writingfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A529A245-C4D4-417C-983D-77F8BA35EF78}|..\\CalculatorLib\\CalculatorLib.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74474250-D441-48AE-AF95-37B4BF996339}|..\\WritingFunctions\\WritingFunctions.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\writingfunctions\\program.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE53E1A1-0104-44A1-9D3F-9E9A321FAF9F}|..\\HotReload\\HotReload.csproj|c:\\users\\martin.costa\\documents\\github\\.net-aprendizaje\\hotreload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,29 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.Functions.cs",
-              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\WritingFunctions\\Program.Functions.cs",
-              "RelativeDocumentMoniker": "..\\WritingFunctions\\Program.Functions.cs",
-              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\WritingFunctions\\Program.Functions.cs",
-              "RelativeToolTip": "..\\WritingFunctions\\Program.Functions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorLib\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "..\\CalculatorLib\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:24:44.895Z",
+              "WhenOpened": "2026-01-13T14:36:29.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\WritingFunctions\\Program.cs",
-              "RelativeDocumentMoniker": "..\\WritingFunctions\\Program.cs",
-              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\WritingFunctions\\Program.cs*",
-              "RelativeToolTip": "..\\WritingFunctions\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\HotReload\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HotReload\\Program.cs",
+              "ToolTip": "C:\\Users\\Martin.Costa\\Documents\\GitHub\\.NET-aprendizaje\\HotReload\\Program.cs",
+              "RelativeToolTip": "..\\HotReload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:23:23.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T14:28:04.178Z"
             }
           ]
         }
